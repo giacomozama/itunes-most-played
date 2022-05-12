@@ -1,0 +1,9 @@
+<resources>
+  <string name="app_name">iTunes Most Played</string>
+
+  <string name="artwork_for_template">Artwork for %1$s</string>
+  <string name="empty" />
+  <string name="back">Back</string>
+  <string name="play_list">Play List</string>
+  <string name="song_details">Song Details</string>
+</resources>

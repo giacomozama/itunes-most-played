@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <dimen name="play_list_grid_gap">2dp</dimen>
+  <dimen name="play_list_grid_content_padding">8dp</dimen>
+  <dimen name="play_list_grid_item_padding">8dp</dimen>
+  <dimen name="play_list_grid_item_height">240dp</dimen>
+  <dimen name="play_list_grid_item_line_spacing">8dp</dimen>
+  <dimen name="item_song_cover_corner_radius">16dp</dimen>
+</resources>
